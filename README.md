@@ -14,7 +14,8 @@ Avant de commencer, assurez-vous d'avoir installé les outils suivants :
 ---
 
 ## Étape 1 : Telecharger les dossier chatbot.zib et backend.zib et frontend.zib
-## Étape 2 :Téléchargez le modèle model.h5 depuis  output de notebook https://www.kaggle.com/code/ahzababdessabour/cnn-skin-cancer et placez le fichier model.h5 téléchargé dans le dossier /backend/ .
+## Étape 2 :Téléchargez le modèle model.h5 
+depuis  output de notebook https://www.kaggle.com/code/ahzababdessabour/cnn-skin-cancer et placez le fichier model.h5 téléchargé dans le dossier /backend/ .
 ##   Étape 3 : Configuration de Rasa (Chatbot)
 ** Dans le répertoire /chatbot**
 Création de l'environnement:
